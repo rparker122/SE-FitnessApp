@@ -73,10 +73,11 @@ This project is licensed under the [MIT License](LICENSE) – feel free to use a
 
 ## 🙌 Acknowledgments
 
-Created by [Your Name](https://github.com/your-username)
+Created by [Robert Parker](https://github.com/rparker122))
 
 ---
 
 ```
 
 ---
+
