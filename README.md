@@ -1,8 +1,5 @@
-Great! Here's a clean, professional `README.md` draft for your **FitnessApp** project based on what you’ve provided.
 
----
 
-````markdown
 # 🏋️‍♂️ FitnessApp
 
 **FitnessApp** is a simple and clean workout logging application that helps you keep track of your fitness routines. Whether you're lifting weights, running, or doing yoga, this app lets you record your workouts efficiently.
@@ -80,4 +77,5 @@ Created by [Robert Parker](https://github.com/rparker122))
 ```
 
 ---
+
 
